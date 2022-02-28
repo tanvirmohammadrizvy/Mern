@@ -6,7 +6,7 @@ cors = require('cors'),
 mongoose = require('mongoose');
 
 // MongoDB Databse url
-var mongoDatabase = 'mongodb://localhost:27017/employeeDetails';
+var mongoDatabase = 'mongodb://localhost:27017/admin';
 
 // Created express server
 const app = express();
